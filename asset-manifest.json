@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-email-signature/static/css/main.7e3475f4.chunk.css",
+    "main.js": "/react-email-signature/static/js/main.bbb6b185.chunk.js",
+    "main.js.map": "/react-email-signature/static/js/main.bbb6b185.chunk.js.map",
+    "runtime-main.js": "/react-email-signature/static/js/runtime-main.5dcaaf86.js",
+    "runtime-main.js.map": "/react-email-signature/static/js/runtime-main.5dcaaf86.js.map",
+    "static/js/2.f2482b66.chunk.js": "/react-email-signature/static/js/2.f2482b66.chunk.js",
+    "static/js/2.f2482b66.chunk.js.map": "/react-email-signature/static/js/2.f2482b66.chunk.js.map",
+    "index.html": "/react-email-signature/index.html",
+    "precache-manifest.c5dd5ba47e04efaebe166f9cefb18eae.js": "/react-email-signature/precache-manifest.c5dd5ba47e04efaebe166f9cefb18eae.js",
+    "service-worker.js": "/react-email-signature/service-worker.js",
+    "static/css/main.7e3475f4.chunk.css.map": "/react-email-signature/static/css/main.7e3475f4.chunk.css.map",
+    "static/js/2.f2482b66.chunk.js.LICENSE.txt": "/react-email-signature/static/js/2.f2482b66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dcaaf86.js",
+    "static/js/2.f2482b66.chunk.js",
+    "static/css/main.7e3475f4.chunk.css",
+    "static/js/main.bbb6b185.chunk.js"
+  ]
+}
