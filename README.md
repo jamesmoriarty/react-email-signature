@@ -6,7 +6,7 @@ Interactive form to generate email signatures.
 
 ## Examples
 
-- [jamesmoriarty.xyz](https://jamesmoriarty.github.io/react-email-signature).
+- [jamesmoriarty.xyz](https://jamesmoriarty.github.io/react-email-signature)
 
 ## Screenshots
 
